@@ -12,21 +12,21 @@
 		<meta name="description" content="Portafolio de Jordanna De La Hoz, Estudiante de Diseño Integral PUC.">
 		<meta name="author" content="De la hoz Design">
 		<meta name="description" content="Portafolio">
-		<meta name="image" content="http://www.capital.cl/wp-content/uploads/2017/03/jordana-de-la-hoz-y-diego-espinozas-650x387.jpg">
+		<meta name="image" content="https://pbs.twimg.com/media/DCu1nBRXcAIFb_x.png:large">
 		<!-- Schema.org for Google -->
 		<meta itemprop="name" content="De la hoz Design">
 		<meta itemprop="description" content="Portafolio de Jordanna De La Hoz, Estudiante de Diseño Integral PUC.">
-		<meta itemprop="image" content="http://www.capital.cl/wp-content/uploads/2017/03/jordana-de-la-hoz-y-diego-espinozas-650x387.jpgg">
+		<meta itemprop="image" content="https://pbs.twimg.com/media/DCu1nBRXcAIFb_x.png:large">
 		<!-- Twitter -->
 		<meta name="twitter:card" content="summary"> <!-- No reescribir card-->
 		<meta name="twitter:title" content="De la hoz Design">
 		<meta name="twitter:description" content="Portafolio de Jordanna De La Hoz, Estudiante de Diseño Integral PUC.">
-		<meta name="twitter:image:src" content="http://www.capital.cl/wp-content/uploads/2017/03/jordana-de-la-hoz-y-diego-espinozas-650x387.jpg">
+		<meta name="twitter:image:src" content="https://pbs.twimg.com/media/DCu1nBRXcAIFb_x.png:large">
 		<!-- Open Graph general (Facebook, Pinterest & Google+) -->
 		<meta name="og:title" content="Portafolio">
 		<meta name="og:description" content="Portafolio de Jordanna De La Hoz, Estudiante de Diseño Integral PUC.">
-		<meta name="og:image" content="http://www.capital.cl/wp-content/uploads/2017/03/jordana-de-la-hoz-y-diego-espinozas-650x387.jpg">
-		<meta name="og:url" content="http://www.capital.cl/wp-content/uploads/2017/03/jordana-de-la-hoz-y-diego-espinozas-650x387.jpg">
+		<meta name="og:image" content="https://pbs.twimg.com/media/DCu1nBRXcAIFb_x.png:large">
+		<meta name="og:url" content="https://pbs.twimg.com/media/DCu1nBRXcAIFb_x.png:large">
 		<meta name="og:site_name" content="De La Hoz Design">
 		<meta name="og:locale" content="es_CL">
 		<meta name="og:type" content="website">
